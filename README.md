@@ -62,6 +62,4 @@ Password: john123
 
 ## Author
 
-Your Name
-
----
+Muhammad Syauqi Satrio Wibowo - 24060123120021 - PBP D
